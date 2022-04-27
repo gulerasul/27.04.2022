@@ -1,0 +1,135 @@
+
+.btn:hover{
+    background-color: #0615f1af;
+    color: white;
+}
+.navbar-brand:hover{
+    color: blue;
+}
+#navbarNav ul{
+    gap: 50px;
+}
+.container .navbar-brand:hover{
+    color: #2937F0;
+}
+
+.text{
+    width: 100%;
+    height: 100vh;
+}
+.text h1{
+    color: #212529;
+    padding-left: 90px;
+    padding-top: 180px;
+    font-size: 80px;
+}
+.text p{
+    padding-left: 90px;
+    font-size: 20px;
+    color: #6C757D;
+}
+.image {
+    display: flex;
+    padding-left: 100px;
+}
+.image img{
+    
+    margin: 10px ;
+    width: 20%;
+}
+.text-2{
+    width: 100%;
+    height: 55vh;
+    background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+}
+.image-2{
+    text-align: center;
+    padding-top: 20px;
+}
+.image-2 img{
+    width: 9%;
+}
+.text-2 h1{
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+}
+.background3{
+    display: flex;
+    text-align: center;
+    padding-top: 45px;
+    padding-right: 100px;
+}
+#B{
+    display: flex;
+}
+#A{
+    display: flex;
+    padding: top 50px;
+    
+}
+#C{
+    width: 100%;
+    height: 700px;
+    display: flex;
+    padding-left: 300px;
+    padding-top: 100px;
+    gap: 80px;
+
+}
+ .img-3 img{
+    width: 490px;
+    height: 490px;
+    border-radius: 50%;
+   
+    
+ 
+}
+.text-3{
+    padding-top: 100px;
+}
+.background4{
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://source.unsplash.com/5g41N3uRPf8/1500x800");
+    color: white;
+padding-top: 190px;
+padding-top: 190px;
+padding-left: 70px;
+
+}
+.background4 h1{
+    font-size: 80px;
+    font-family: garamont,serif;
+    font-weight: bold;
+}
+.navbar-nav .btn{
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: #2937F0;
+    color: white;
+}
+#E {
+    background: linear-gradient(45deg, #2937f0, #9f1ae2) !important;
+    width: 100%;
+    height: 250px;
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+}
+
+#E img {
+    width: 150px;
+    height: 90px
+}
+
+#F {
+    background: rgb(29, 29, 29);
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    padding-top: 50px;
+    color: white;
+}
+.img-5{padding-top: 100px;}
